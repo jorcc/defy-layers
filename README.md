@@ -1,5 +1,4 @@
 # Dygma Defy layers
-version: 1.0.0
 
 Layers defined for the keyboard Dygma Defy for my own use.
 
