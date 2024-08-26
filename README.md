@@ -1,6 +1,6 @@
 # Dygma Defy layers
 
-Layers defined for the keyboard Dygma Defy for my own use.
+Layers defined for the keyboard Dygma Defy.
 
 - Layer 1: main layer.
 - Layer 2: symbols and F keys.
