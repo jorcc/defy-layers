@@ -157,10 +157,8 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 56,
+      "label": "/"
     },
     {
       "keyCode": 78,
@@ -184,10 +182,8 @@
       "label": "END"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 45,
+      "label": "-"
     },
     {
       "keyCode": 0,
@@ -412,10 +408,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 0,
@@ -445,10 +440,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 40,
@@ -485,14 +479,14 @@
     15,
     15,
     15,
-    15,
+    0,
     12,
     15,
     15,
-    6,
-    6,
-    6,
-    6,
+    0,
+    0,
+    0,
+    0,
     11,
     15,
     15,
@@ -520,14 +514,14 @@
     15,
     15,
     15,
+    0,
     15,
     15,
     15,
-    15,
-    6,
-    6,
-    6,
-    6,
+    0,
+    0,
+    0,
+    0,
     12,
     12,
     15,

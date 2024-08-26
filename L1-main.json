@@ -132,8 +132,9 @@
       "label": "Q"
     },
     {
-      "keyCode": 26,
-      "label": "W"
+      "keyCode": 50731,
+      "label": "W",
+      "extraLabel": "ALTGR/"
     },
     {
       "keyCode": 8,
@@ -180,8 +181,9 @@
       "label": "I"
     },
     {
-      "keyCode": 18,
-      "label": "O"
+      "keyCode": 50723,
+      "label": "O",
+      "extraLabel": "ALTGR/"
     },
     {
       "keyCode": 19,
@@ -364,10 +366,9 @@
       "label": "ENTER"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 0,
@@ -397,10 +398,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 57,
+      "label": "⇪",
+      "verbose": "Caps Lock"
     },
     {
       "keyCode": 40,
