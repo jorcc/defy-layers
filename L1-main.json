@@ -23,35 +23,35 @@
     },
     {
       "id": 2,
-      "name": "L3"
+      "name": ""
     },
     {
       "id": 3,
-      "name": "L4"
+      "name": ""
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": ""
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": ""
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": ""
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": ""
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": ""
     },
     {
       "id": 9,
-      "name": "L10"
+      "name": ""
     }
   ],
   "keymap": [
@@ -132,9 +132,8 @@
       "label": "Q"
     },
     {
-      "keyCode": 50731,
-      "label": "W",
-      "extraLabel": "ALTGR/"
+      "keyCode": 26,
+      "label": "W"
     },
     {
       "keyCode": 8,
@@ -181,9 +180,8 @@
       "label": "I"
     },
     {
-      "keyCode": 50723,
-      "label": "O",
-      "extraLabel": "ALTGR/"
+      "keyCode": 18,
+      "label": "O"
     },
     {
       "keyCode": 19,
@@ -194,38 +192,34 @@
       "label": "["
     },
     {
-      "keyCode": 53,
-      "label": "`"
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
     },
     {
-      "keyCode": 49173,
-      "label": "A",
-      "extraLabel": "CTRL/"
+      "keyCode": 4,
+      "label": "A"
     },
     {
-      "keyCode": 49703,
-      "label": "S",
-      "extraLabel": "ALT/"
+      "keyCode": 22,
+      "label": "S"
     },
     {
-      "keyCode": 49432,
-      "label": "D",
-      "extraLabel": "SHIFT/"
+      "keyCode": 7,
+      "label": "D"
     },
     {
-      "keyCode": 51483,
-      "label": "F",
-      "extraLabel": "L#2/"
+      "keyCode": 9,
+      "label": "F"
     },
     {
       "keyCode": 10,
       "label": "G"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 40,
+      "label": "ENTER"
     },
     {
       "keyCode": 0,
@@ -240,42 +234,37 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 17493,
-      "label": "2",
-      "extraLabel": "LOCK"
+      "keyCode": 54108,
+      "label": "LEVEL",
+      "extraLabel": "BATT."
     },
     {
       "keyCode": 11,
       "label": "H"
     },
     {
-      "keyCode": 51487,
-      "label": "J",
-      "extraLabel": "L#2/"
+      "keyCode": 13,
+      "label": "J"
     },
     {
-      "keyCode": 49439,
-      "label": "K",
-      "extraLabel": "SHIFT/"
+      "keyCode": 14,
+      "label": "K"
     },
     {
-      "keyCode": 49696,
-      "label": "L",
-      "extraLabel": "ALT/"
+      "keyCode": 15,
+      "label": "L"
     },
     {
-      "keyCode": 49220,
-      "label": ";",
-      "extraLabel": "CTRL/"
+      "keyCode": 51,
+      "label": ";"
     },
     {
       "keyCode": 52,
       "label": "'"
     },
     {
-      "keyCode": 227,
-      "label": "LEFT LINUX",
-      "verbose": "Left Linux"
+      "keyCode": 53,
+      "label": "`"
     },
     {
       "keyCode": 29,
@@ -346,8 +335,10 @@
       "label": "\\"
     },
     {
-      "keyCode": 76,
-      "label": "DEL"
+      "keyCode": 49154,
+      "label": "LEFT SHIFT",
+      "extraLabel": "OSM",
+      "verbose": "Left Shift"
     },
     {
       "keyCode": 41,
@@ -362,49 +353,47 @@
       "label": "TAB"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
+      "keyCode": 65535,
+      "label": "",
+      "extraLabel": "TRANS",
+      "verbose": "Transparent"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 226,
+      "label": "LEFT ALT",
+      "verbose": "Left Alt"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 227,
+      "label": "LEFT LINUX",
+      "verbose": "Left Linux"
     },
     {
-      "keyCode": 20866,
-      "label": {
-        "key": null,
-        "ref": null,
-        "props": {},
-        "_owner": null
-      },
-      "verbose": "Sleep"
+      "keyCode": 49153,
+      "label": "LEFT CONTROL",
+      "extraLabel": "OSM",
+      "verbose": "Left Control"
     },
     {
-      "keyCode": 54108,
-      "label": "LEVEL",
-      "extraLabel": "BATT."
+      "keyCode": 49157,
+      "label": "RIGHT CTRL",
+      "extraLabel": "OSM",
+      "verbose": "Right Control"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 101,
+      "label": "MENU"
     },
     {
-      "keyCode": 57,
-      "label": "⇪",
-      "verbose": "Caps Lock"
+      "keyCode": 230,
+      "label": "RIGHT ALT",
+      "extraLabel": "",
+      "verbose": "AltGr"
     },
     {
-      "keyCode": 40,
-      "label": "ENTER"
+      "keyCode": 49162,
+      "label": "2",
+      "extraLabel": "OSL"
     },
     {
       "keyCode": 43,
@@ -413,196 +402,198 @@
     {
       "keyCode": 44,
       "label": "SPACE"
-    },
-    {
-      "keyCode": 41,
-      "label": "ESC"
     },
     {
       "keyCode": 42,
       "label": "BACKSPACE",
       "verbose": "Backspace"
+    },
+    {
+      "keyCode": 49158,
+      "label": "RIGHT SHIFT",
+      "extraLabel": "OSM",
+      "verbose": "Right Shift"
     }
   ],
   "colormap": [
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    4,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
     11,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
     4,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    12,
-    4
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    4,
+    15,
+    3,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15,
+    15
   ],
   "palette": [
     {
